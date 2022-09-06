@@ -4,6 +4,7 @@
 * **Phone:** +79504961752
 * **Email:** weedprotector@gmail.com
 * **Telegram:** @weedprotector
+* **Discord:** (@weedprotector)
 *****
 ## About me
 Graduated from the Tyumen Industrial University. Specialty: well logging. I worked in the Tyumen branch of Sugrutnipineft as a technician. I am currently studying web development.
