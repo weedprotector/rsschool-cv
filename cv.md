@@ -5,20 +5,20 @@
 **Phone:** +77777777777
 **E-mail:** weedprotector@gmail.com
 **Telegram:** @weedprotector
-*******************
+***********
 ## Briefly About Myself:
 
 My goal is to become a frontend developer.\
 I strive to always learn something new.\
 My main quality is communication.
-*******************
+***********
 ## Skills and Proficiency:
 
 * HTML5, CSS3
 * JS Basics
 * React
 * Git, GitHub
-*******************
+***********
 ## Code example:
 
 ```javascript
@@ -48,12 +48,12 @@ const quarterOf = (month) => {
   }
 }
 ```
-*******************
+***********
 ## Courses:
 
 * Full course of JavaScript + React on the [Udemy](www.udemy.com)
 * JavaScript/Front-end 2023Q1 (in progress)
-*******************
+***********
 ## Job experience:
 
 * https://github.com/weedprotector/MarvelApp
