@@ -1,1 +1,1 @@
-https://weedprotector.github.io/rsschool-cv/cv
+https://weedprotector.github.io/rsschool-cv/
